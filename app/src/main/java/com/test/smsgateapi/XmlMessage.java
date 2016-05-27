@@ -6,7 +6,7 @@ package com.test.smsgateapi;
 public class XmlMessage {
     private static String LOGIN = "tg324gf2";
     private static String PASSWORD = "qvofxcmM";
-    private static String SENDER = "My-company";
+    private static String SENDER = "996772673639";
 
     private String[] phones;
     private String messageText;
